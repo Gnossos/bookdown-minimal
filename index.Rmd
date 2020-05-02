@@ -3,10 +3,10 @@ title: "A Sample Book"
 author: "Marshall Feldman"
 site: bookdown::bookdown_site
 documentclass: book
+output_dir: "docs"
 output:
   bookdown::gitbook: default
   bookdown::pdf_book: default
-output_dir: "docs"
 ---
 
 # Hello World
