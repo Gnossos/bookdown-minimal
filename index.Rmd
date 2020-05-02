@@ -1,11 +1,11 @@
 ---
-title: "A Book"
-author: "Frida Gomam"
+title: "A Sample Book"
+author: "Marshall Feldman"
 site: bookdown::bookdown_site
 documentclass: book
 output:
   bookdown::gitbook: default
-  #bookdown::pdf_book: default
+  bookdown::pdf_book: default
 ---
 
 # Hello World
